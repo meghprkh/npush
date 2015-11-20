@@ -1,0 +1,29 @@
+{
+  "extends": "semistandard",
+  "globals": {
+    "require": true,
+    "UP": true,
+    "LEFT": true,
+    "DOWN": true,
+    "RIGHT" : true,
+    "CHANGE" : true,
+    "UNDO": true,
+    "PLAYER": true,
+    "EMPTY": true,
+    "GOLD" : true,
+    "DYNAMITE" : true,
+    "STONE": true,
+    "WALL": true,
+    "EXIT" : true
+  },
+  "env": {
+    "browser": true
+  },
+  "rules": {
+    "semi": [1,"always"],
+    "strict": [1,"never"],
+    "quotes": [1, "single", "avoid-escape"],
+    "no-unused-vars": [1, {"vars": "all", "args": "after-used"}],
+    "one-var": 0
+  }
+}

@@ -1,0 +1,8 @@
+;Level 4 - The Show Starts
+
+ #########    ,Tips:
+ #@   #O$#
+ #    O  #    ,You can use the UnDo key ('u' by default) to undo any move
+ #hh  #  #    ,To restart level, just hold 'u' until it goes back to start
+ # $h #x #
+ #########

@@ -1,0 +1,12 @@
+;Level 7 - Duality
+
+ #############
+ #   #$    #$#
+ # @ ## ## # #
+ #   h       #    ,Tip:
+ # @ #######O#
+ #   #$ O  # #    ,You can use the player switch key (TAB by default)
+ #####  O  # #    ,to change the active player
+ #    O###O# #
+ # x         #
+ #############

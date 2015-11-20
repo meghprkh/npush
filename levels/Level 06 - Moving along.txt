@@ -1,0 +1,13 @@
+;Level 6 - Moving along
+
+ #####
+ #   #
+ # @ #########
+ #    O O O$ #
+ #O    O O O #
+ #$O    O O O#
+ #O O    O O #
+ #$O O    O O#
+ #O O O    O #
+ # x O O    O#
+ #############

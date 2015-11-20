@@ -1,0 +1,20 @@
+;Level 13 - Warm-up
+
+ ###
+ #@###########################    , Author:
+ #O O  O$  $O O  O  $O$O O O$#    , Zear
+ #  O   hO OOOh O$O O O$  $$O#    , zeartul(at)gmail(dot)com
+ #O OO$OOOOOO$O$ O  O O$  OO #
+ # O  OO$ OO O  O   O $  O$hO#
+ #$$OO$    O    $O$O  OO$O$ $#
+ #$OOOO$O OO##O##OOOOOOOOOOO$#
+ #O$O$OOOO$$#   #O$O$OOO$O$OO#
+ #$   $O $  O $ O  OO   O O  #
+ # h  O$O  O#   # O O OO$  O #
+ #O OOO $ O$##O## O$    O$  $#
+ # O$ O O  O O $ O   OO$O$ O #
+ # O$  $  OOO$ O  OOhO$O$O O #
+ #OOOOO  OOO$OO  $O$ $O$O   h#
+ #$$O $O $O$Oh   OOO$ $ $ O $#
+ ###########################x#
+                           ###

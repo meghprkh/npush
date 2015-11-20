@@ -1,0 +1,11 @@
+;Level 3 - Dynamite
+
+ ###############    , Elements:
+ #    O        #
+ # @  ###### ###    ,  @ - player
+ #    #        #    ,  # - wall (cannot be moved or destroyed)
+ #    #  h   h #    ,  O - movable rock (you can push it)
+ ##########O####    ,  $ - gold
+ #$O   x       #    ;  h - dynamite (destroys rocks)
+ #O$       $   #    ,  x - exit (you need to collect all gold to exit level)
+ ###############

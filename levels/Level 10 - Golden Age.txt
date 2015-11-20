@@ -1,0 +1,13 @@
+;Level 10 - Golden Age
+
+ ##################
+ # h   # #     $ $#
+ #   #  x#  h   O #
+ ###h#########O####    ,Tip:
+ #$ O   $ $$  O   #
+ #O$O  #O O O O   #    ,Dynamite can destroy rocks
+ ########O######  #    ,and another dynamite piece
+ #   #  O  $O h ###
+ # @   $O $       #
+ ##################
+

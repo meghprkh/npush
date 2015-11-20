@@ -1,0 +1,25 @@
+;                         The Break in!
+;                       By: Dopefish7590
+;            Having a messy yard doesn't mean you are lazy;
+;               It means that your house is hard to rob
+;                          Regardless...
+;      Don't be fooled! this level is much easier than it looks
+
+ ###############################################################
+ #@# #    #               #               OO         O  #   O  #
+ #  #          #     #     #  #  h h h h  OO             O  #  #
+ # # #      O      #   # O   # ## ###################  #  #    #
+ #  #   #  #     #    #    #  #  ## $$   #          #   O  O   #
+ # # #                            #    $ #          # O #  #   #
+ #  #     O     O     O     O     #####O##          #    O#  O #
+##                         O      O$                # # O   h  #
+#x                  O     O   O   O$                #  #  O    #
+##  #     O     O     O     O     ##############    # O #  O   #
+ # # #              #             #$$$$$$$#         #   O O  O #
+ #  #         O   O      #  # #   #$$$$$$$O         #  #   O   #
+ # # ####O###   #   # O   #    #  #$$$$$$$#         ##  O  O   #
+ #  ## $$$h #     #   #    O #  O ###################    # O   #
+ # # #      #    #       # #  #                       O   O O  #
+ #  #########      #  O #   # O             #     #     # O  # #
+ # # #$$O        #       #        #         #        #     #   #
+ ###############################################################

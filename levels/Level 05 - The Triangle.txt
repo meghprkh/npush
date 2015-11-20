@@ -1,0 +1,11 @@
+;Level 5 - The Triangle
+
+ #############
+ #         h #
+ # @       h #
+ #     O   h #    ,Tips:
+ #    OOO  $h#
+ #   OOO O   #    ,You can use the Quit key ('q' by default)
+ #  OO OOOO  #    ,to exit the current game at any time
+ # OOOOxOO O #
+ #############

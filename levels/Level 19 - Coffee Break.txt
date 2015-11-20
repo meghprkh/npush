@@ -1,0 +1,19 @@
+;Level 19 - Coffee break
+
+ ###############    ,Author:
+ #     O$O    $#    ,Artur "Zear" Rojek
+ #O$O OO@OO O O#    ,zeartul(at)gmail(dot)com
+ #$O O OOO O O$#
+ ## # # # # # ##
+ # O O O OOO OO#
+ #O O O O O O O#
+ #$O$O OO $O O$#
+ #O O $ O$O$O$O#
+ #$$$OOO O   O #
+ #OO $O  $ OO O#
+ # O O$O   O$$ #
+ # $ OO OOOO$  #
+ #$  $ $x $ O $#
+ ###############
+          
+ 

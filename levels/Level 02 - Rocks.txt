@@ -1,0 +1,11 @@
+;Level 2 - Rocks
+
+ ###############    , Elements:
+ #          O  #
+ # OO       O$ #    ,  @ - player
+ # O$O      OOO#    ,  # - wall (cannot be moved or destroyed)
+ # OO   @  #####    ;  O - movable rock, you can push it
+ # #############    ,  $ - gold
+ #      O    $ #    ,  x - exit (you need to collect all gold to exit level)
+ #     OxO     #
+ ###############

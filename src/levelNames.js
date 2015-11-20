@@ -1,0 +1,21 @@
+module.exports = [
+  'Level 01 - Gold and Exit',
+  'Level 02 - Rocks',
+  'Level 03 - Dynamite',
+  'Level 04 - The Show Starts',
+  'Level 05 - The Triangle',
+  'Level 06 - Moving along',
+  'Level 07 - Duality',
+  'Level 08 - Traps and Treasure',
+  'Level 09 - Cooperation',
+  'Level 10 - Golden Age',
+  'Level 11 - Story of a lifetime',
+  'Level 12 - In the Mine',
+  'Level 13 - Warm-up',
+  'Level 14 - To and fro',
+  'Level 15 - Little by little',
+  'Level 16 - The break in',
+  'Level 17 - The great escape',
+  'Level 18 - The one road',
+  'Level 19 - Coffee Break'
+];

@@ -1,0 +1,19 @@
+;Level 14 - To and fro
+
+                 ###
+                 #x#
+ #################@#################    ,Author:
+ #$ O $O $  O   $OO O$O$$$O    h   #    ,Zear
+ #  $  #Oh  OOO OO OO$#### O $O$OOO#    ,zeartul(at)gmail(dot)com
+ # $O$ #$   O$O    $ O$O  $$ $O$   #
+ # O$O #OOO######O    $#O$O OOOO OO#
+ # $O$ OO O      $O#####OOO$$OO  $ #
+ # O$O $O #OOOOOO$O  $  O   #$  $  #
+ # $O$    #$   O  O $ O#OOO$# O$# O#
+ #  $O   $### OOO##### #$$  #O O$O$#
+ #OOO#$   #          OO    $#$O$O$O#
+ #   #h O $  $$O$OO$OO  OOO###$O O$#
+ #O O#OOO##OOOO######### $ OO$     #
+ # O  O$O$$O    $ $O  $#OOOO O$O$OO#
+ #  O  O    $$OO$O  O $ $$$O     $$#
+ ###################################

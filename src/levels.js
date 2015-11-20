@@ -1,0 +1,21 @@
+module.exports = [
+  require('../levels/Level\ 01\ -\ Gold\ and\ Exit.txt'),
+  require('../levels/Level\ 02\ -\ Rocks.txt'),
+  require('../levels/Level\ 03\ -\ Dynamite.txt'),
+  require('../levels/Level\ 04\ -\ The\ Show\ Starts.txt'),
+  require('../levels/Level\ 05\ -\ The\ Triangle.txt'),
+  require('../levels/Level\ 06\ -\ Moving\ along.txt'),
+  require('../levels/Level\ 07\ -\ Duality.txt'),
+  require('../levels/Level\ 08\ -\ Traps\ and\ Treasure.txt'),
+  require('../levels/Level\ 09\ -\ Cooperation.txt'),
+  require('../levels/Level\ 10\ -\ Golden\ Age.txt'),
+  require('../levels/Level\ 11\ -\ Story\ of\ a\ lifetime.txt'),
+  require('../levels/Level\ 12\ -\ In\ the\ Mine.txt'),
+  require('../levels/Level\ 13\ -\ Warm-up.txt'),
+  require('../levels/Level\ 14\ -\ To\ and\ fro.txt'),
+  require('../levels/Level\ 15\ -\ Little\ by\ little.txt'),
+  require('../levels/Level\ 16\ -\ The\ break\ in.txt'),
+  require('../levels/Level\ 17\ -\ The\ great\ escape.txt'),
+  require('../levels/Level\ 18\ -\ The\ one\ road.txt'),
+  require('../levels/Level\ 19\ -\ Coffee\ Break.txt')
+];
